@@ -911,7 +911,7 @@ textarea {
 .form-yourname input,
 .form-yourmail input,
 .form-phone input,
-.form-datebirth input {
+.form-number input {
   font-family: 'Lato', sans-serif;
   font-size: 14px;
   color: #A5A5A5;
@@ -940,7 +940,7 @@ textarea {
 .form-yourname input::-webkit-input-placeholder,
 .form-yourmail input::-webkit-input-placeholder,
 .form-phone input::-webkit-input-placeholder,
-.form-datebirth input::-webkit-input-placeholder {
+.form-number input::-webkit-input-placeholder {
   color: #A5A5A5;
 }
 .form-item input:-moz-placeholder,
@@ -953,7 +953,7 @@ textarea {
 .form-yourname input:-moz-placeholder,
 .form-yourmail input:-moz-placeholder,
 .form-phone input:-moz-placeholder,
-.form-datebirth input:-moz-placeholder {
+.form-number input:-moz-placeholder {
   color: #A5A5A5;
 }
 .form-item input::-moz-placeholder,
@@ -966,7 +966,7 @@ textarea {
 .form-yourname input::-moz-placeholder,
 .form-yourmail input::-moz-placeholder,
 .form-phone input::-moz-placeholder,
-.form-datebirth input::-moz-placeholder {
+.form-number input::-moz-placeholder {
   color: #A5A5A5;
 }
 .form-item input:-ms-input-placeholder,
@@ -979,7 +979,7 @@ textarea {
 .form-yourname input:-ms-input-placeholder,
 .form-yourmail input:-ms-input-placeholder,
 .form-phone input:-ms-input-placeholder,
-.form-datebirth input:-ms-input-placeholder {
+.form-number input:-ms-input-placeholder {
   color: #A5A5A5;
 }
 .form-submit-1 .mc-btn {
