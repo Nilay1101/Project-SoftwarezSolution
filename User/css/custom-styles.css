@@ -1,9 +1,3 @@
-/*----------------------------------------------
-Author : www.webthemez.com
-License: Commons Attribution 3.0
-http://creativecommons.org/licenses/by/3.0/
-------------------------------------------------*/
-
 
 /*----------------------------------------------
     COMMON  STYLES    
@@ -28,7 +22,7 @@ body {
     margin:10px 20px 10px 0px;
     background-color:transparent;
     padding:10px;
-    min-height:1200px;
+    min-height:670px;
 }
 
 .text-center {
@@ -487,7 +481,7 @@ line-height: 1.428571429;
      #page-wrapper{
                margin: 0 0 0 260px;
         padding: 15px 30px;
-        min-height: 1200px;
+        min-height: 670px;
 		
     }
 	
