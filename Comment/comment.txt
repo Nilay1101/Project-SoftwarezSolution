@@ -1,2 +1,0 @@
-: comment system
-: review , edit , delete , approve and discard
